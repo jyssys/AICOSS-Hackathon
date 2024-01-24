@@ -48,6 +48,11 @@ The dataset folder should have the following below structure:
 
 ## Training
 All you need to do is run main.py.
+
+<br>
+
+     python3 main.py
+
 - Finally, after learning is completed, 7 csv will be created to match the config in the results folder. 
   [updated_submission_{version+1}.csv]
 - After that, a csv with 7 csv soft voted(ensembled) will be created in the folder. 
