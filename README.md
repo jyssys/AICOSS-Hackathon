@@ -74,5 +74,6 @@ All you need to do is run main.py.
 
 ## Presentation Materials
 We would appreciate it if you could refer to this pdf.
-[2023 AICOSS.pdf](https://github.com/jyssys/AICOSS-Hackathon/files/14034815/2023.AICOSS.pdf)
+[2023 AICOSS 무적환공.pdf](https://github.com/jyssys/AICOSS-Hackathon/files/14035024/2023.AICOSS.pdf)
+
 
