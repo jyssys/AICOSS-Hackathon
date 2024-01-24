@@ -1,4 +1,4 @@
-[빅데.pdf](https://github.com/jyssys/AICOSS-Hackathon/files/14034810/default.pdf)# 2023 AICOSS 위성 이미지 다중 분류 해커톤
+# 2023 AICOSS 위성 이미지 다중 분류 해커톤
 ![banner](https://github.com/jyssys/AICOSS-Hackathon/assets/22981960/e1fd58da-c143-442b-8367-fbb365c5f0a1)
 This is the 2023 AICOSS Hackathon '무적환공' Team co-hosted by University of Seoul and Hyundai XiteSolution.
 
@@ -57,7 +57,9 @@ All you need to do is run main.py.
 
 ## Results
 <img width="992" alt="image" src="https://github.com/jyssys/AICOSS-Hackathon/assets/22981960/ca90a538-76f0-46b7-ab70-b4f0506fa06e">
-(Loss : BCELogitLoss)
+<img width="689" alt="image" src="https://github.com/jyssys/AICOSS-Hackathon/assets/22981960/7278e353-d403-4fd5-bdfa-6691c76b66f1"> <br/>
+(Loss : BCELogitLoss / Evaluation Score : mAP) <br/>
+
 
 ## Competition Results
 - Public : 2nd
@@ -65,10 +67,10 @@ All you need to do is run main.py.
 - Final : 3rd (서울시립대학교 공과대학장상 2등상)
 
 ## Reference
-[1] TAN, Mingxing; LE, Quoc. Efficientnet: Rethinking model scaling for convolutional neural networks. In: International conference on machine learning. PMLR, 2019. p. 6105-6114.
-[2] Lin, Tsung-Yi, et al. "Focal loss for dense object detection." Proceedings of the IEEE international conference on computer vision. 2017.
-[3] Foret, Pierre, et al. "Sharpness-aware minimization for efficiently improving generalization." arXiv preprint arXiv:2010.01412 (2020).
-[4] Zhang, Hongyi, et al. "mixup: Beyond empirical risk minimization." arXiv preprint arXiv:1710.09412 (2017).
+[1] TAN, Mingxing; LE, Quoc. Efficientnet: Rethinking model scaling for convolutional neural networks. In: International conference on machine learning. PMLR, 2019. p. 6105-6114. <br/>
+[2] Lin, Tsung-Yi, et al. "Focal loss for dense object detection." Proceedings of the IEEE international conference on computer vision. 2017. <br/>
+[3] Foret, Pierre, et al. "Sharpness-aware minimization for efficiently improving generalization." arXiv preprint arXiv:2010.01412 (2020). <br/>
+[4] Zhang, Hongyi, et al. "mixup: Beyond empirical risk minimization." arXiv preprint arXiv:1710.09412 (2017). <br/>
 
 ## Presentation Materials
 We would appreciate it if you could refer to this pdf.
