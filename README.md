@@ -60,8 +60,7 @@ All you need to do is run main.py.
 - 7 models of weight files are created in the weights folder. 
   [model_config_{version+1}.pth]
 
-<br/>
-**'augmentation' folder and 'multi_augmentation.py' were only used for experiments and not in the learning process!**
+**'augmentation' folder and 'multi_augmentation.py' were only used for experiments and not in the learning process!** <br/>
 - augmentation folder : This is a baseline code for data synthesis through GAN and active learning in next research.
 - multi_augmentation.py : This is augmentation by crop with small kernel(crop_size : 94, stride : 47)
 
