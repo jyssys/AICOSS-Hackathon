@@ -47,10 +47,7 @@ The dataset folder should have the following below structure:
 - There are train images (65,496) in the data/train folder.
 
 ## Training
-All you need to do is run main.py. <br/>
-**'augmentation' folder and 'multi_augmentation.py' were only used for experiments and not in the learning process!**
-- augmentation folder : This is a baseline code for data synthesis through GAN and active learning in next research.
-- multi_augmentation.py : This is augmentation by crop with small kernel(crop_size : 94, stride : 47)  
+All you need to do is run main.py.
 
 <br>
 
@@ -62,6 +59,11 @@ All you need to do is run main.py. <br/>
   [ensemble_results.csv]
 - 7 models of weight files are created in the weights folder. 
   [model_config_{version+1}.pth]
+
+<br/>
+**'augmentation' folder and 'multi_augmentation.py' were only used for experiments and not in the learning process!**
+- augmentation folder : This is a baseline code for data synthesis through GAN and active learning in next research.
+- multi_augmentation.py : This is augmentation by crop with small kernel(crop_size : 94, stride : 47)
 
 ## Results
 <img width="992" alt="image" src="https://github.com/jyssys/AICOSS-Hackathon/assets/22981960/ca90a538-76f0-46b7-ab70-b4f0506fa06e">
